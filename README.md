@@ -1,8 +1,6 @@
 # Protótipo de Site Web
 ![GitHub](https://img.icons8.com/fluency/24/github.png) **`Inativo`**
 
-<span style="color:red">cardeais</span>
-
 ## Objetivos
 
 >Desenvolver Site protótipo de aplicativo de esportes.
