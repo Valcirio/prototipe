@@ -1,5 +1,5 @@
 # Protótipo de Site Web
-![GitHub](https://img.icons8.com/fluency/16/github.png) **Inativo**
+![GitHub](https://img.icons8.com/fluency/20/github.png) **Inativo**
 
 ## Objetivos
 
